@@ -2,13 +2,13 @@
 layout: post
 title: Starting a blog
 author: jpds
-category: new
+category: creative
 tags: [change log johnny]
 typora-root-url: ../
 typora-copy-images-to: ../media/newjpds
 ---
 
-# First Post
+# Post category creative
 
 - to save information and be able to share it
 - to keep focussed
@@ -27,8 +27,8 @@ and to assign the category and tags
 layout: post
 title: Starting a blog
 author: jpds
-category: new
-tags: [change log johnny]
+category: creative
+tags: [change log CP]
 typora-root-url: ../
 typora-copy-images-to: ../media/newjpds
 ```
