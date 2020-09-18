@@ -2,7 +2,7 @@
 layout: post
 title: Starting a blog
 author: jpds
-category: creative
+category: basic
 tags: [change log johnny]
 typora-root-url: ../
 typora-copy-images-to: ../media/jpds
@@ -22,16 +22,6 @@ I copied the Typora support blog.
 I set the YAML at the top of this markdown file to say where to put the image
 
 and to assign the category and tags
-
-```
-layout: post
-title: Starting a blog
-author: jpds
-category: new 
-tags: [change log CP]
-typora-root-url: ../
-typora-copy-images-to: ../media/jpds
-```
 
 
 
