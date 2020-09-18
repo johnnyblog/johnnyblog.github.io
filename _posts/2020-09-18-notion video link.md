@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: Starting a blog
+title: Creative
 author: jpds
 category: new
 tags: [change log johnny]
