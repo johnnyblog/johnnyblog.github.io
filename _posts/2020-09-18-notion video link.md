@@ -2,7 +2,7 @@
 layout: post
 title: Starting a blog
 author: jpds
-category: creative
+category: new
 tags: [change log johnny]
 typora-root-url: ../
 typora-copy-images-to: ../media/jpds
@@ -47,3 +47,8 @@ typora-copy-images-to: ../media/jpds
 
 ![IMG_20200909_213950](/media/jpds/IMG_20200909_213950.jpg)
 
+```html
+<iframe width="420" height="315" src="https://www.notion.so/Square-Moves-9be473184564487ea195a71161de0acc" frameborder="0" allowfullscreen></iframe>
+```
+
+<iframe width="420" height="315" src="https://imgur.com/a/3Pdui06" frameborder="0" allowfullscreen></iframe>
