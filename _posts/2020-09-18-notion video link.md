@@ -24,6 +24,12 @@ I set the YAML at the top of this markdown file to say where to put the image
 
 and to assign the category and tags
 
+```rb
+![]({movie.mp4})
+```
+
+
+
 https://imgur.com/a/3Pdui06
 
 streamable 
@@ -43,7 +49,7 @@ streamable
 ![IMG_20200909_213950](/media/jpds/IMG_20200909_213950.jpg)
 
 ```html
-<iframe width="420" height="315" src="https://www.notion.so/Square-Moves-9be473184564487ea195a71161de0acc" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="movie.mp4" frameborder="0" allowfullscreen></iframe>
 ```
 
 <iframe width="420" height="315" src="https://imgur.com/a/3Pdui06" frameborder="0" allowfullscreen></iframe>
