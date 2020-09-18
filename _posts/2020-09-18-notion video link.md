@@ -1,4 +1,5 @@
 ---
+
 layout: post
 title: Starting a blog
 author: jpds
@@ -23,17 +24,11 @@ I set the YAML at the top of this markdown file to say where to put the image
 
 and to assign the category and tags
 
-```
-layout: post
-title: Starting a blog
-author: jpds
-category: new 
-tags: [change log CP]
-typora-root-url: ../
-typora-copy-images-to: ../media/jpds
-```
+https://imgur.com/a/3Pdui06
 
+streamable 
 
+<div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/cyqm4v" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
 ![](/media/jpds/IMG_20200909_213912.jpg)
 
