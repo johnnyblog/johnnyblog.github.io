@@ -1,6 +1,6 @@
 # johnnyblog
 
-Thi blog is based on the support site <http://support.typora.io> for the Typora markdown editor.
+This blog is based on the support site <http://support.typora.io> for the Typora markdown editor.
 
 Jekyll theme forked from [jekyllthemes](https://github.com/mattvh/jekyllthemes/) and [jekyllDecent](https://github.com/jwillmer/jekyllDecent), MIT License.
 
