@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NOW | Katie Paterson, Darren Almond, Shona Macnaughton, Lucy RavenStarting 
+title: NOW | Katie Paterson,Darren Almond,Shona Macnaughton,Lucy Raven 
 author: jpds
 category: new
 tags: [review exhibition]
@@ -42,7 +42,7 @@ The Morse code itself was also beautifully printed with spaces for the parts tha
 
 I tried to remember if had ever wanted to have clocks with PARIS NEW-YORK LONDON on my wall and would this create for me an image as a worldly jetsetter albeit somewhat Eurocentric and with an eye on stock markets. Paterson's conceptual art deals with the core of us, the material we are made of and what matters to us ? Do I need a stainless steel industrial lever pull citrus squeezer ? What attracts me to these objects and want to possess them ? What makes a necklace of fossils shaped like small planets and strung together so utterly exquisite ? Can the concepts of evolutionary time and formation of planets be separated from the commodity fetishism that is precious stone jewellery ?  
 
-   ![](C:\Users\jpds\AppData\Roaming\Typora\typora-user-images\image-20200929161755714.png)In "*Totality*" a giant disco ball with 2 light sources seems utterly graceful. I was so captivated I did not read the card and appreciate at the time the mirrors were 10,000 from hundreds of years of photography, and a veritable mirror of the sun's sequence eclipsed by the moon.  A shiny disco ball in a Georgian drawing room constantly turning calls, in my mind, for a soundtrack Groove Armada's album Chicago and the sofa from its cover perhaps. I realised that due to Covid the restricted time slots for the gallery have given my mind permission to create a sense of urgency to get round and see everything in at odds with the themes  presented. Katie Paterson creates a sensory spaces in which we may linger and wonder. The ritual of the gallery and a sense of minimal aesthetic playing alongside seemingly mundane objects can take us by surprise when we allow that moment to be, where no time and no thought exist and we are only human being not human wanting. 
+   ![](/media/jpds/image-20200929161755714.png)In "*Totality*" a giant disco ball with 2 light sources seems utterly graceful. I was so captivated I did not read the card and appreciate at the time the mirrors were 10,000 from hundreds of years of photography, and a veritable mirror of the sun's sequence eclipsed by the moon.  A shiny disco ball in a Georgian drawing room constantly turning calls, in my mind, for a soundtrack Groove Armada's album Chicago and the sofa from its cover perhaps. I realised that due to Covid the restricted time slots for the gallery have given my mind permission to create a sense of urgency to get round and see everything in at odds with the themes  presented. Katie Paterson creates a sensory spaces in which we may linger and wonder. The ritual of the gallery and a sense of minimal aesthetic playing alongside seemingly mundane objects can take us by surprise when we allow that moment to be, where no time and no thought exist and we are only human being not human wanting. 
 
 
 
