@@ -8,11 +8,7 @@ typora-root-url: ../
 typora-copy-images-to: ../media/jpds
 ---
 
-
-
-# **EXHIBITION:** NOW | Katie Paterson, Darren Almond, Shona Macnaughton, Lucy Raven
-
-**NOW** is the sixth and final of a number of exhibitions that the Scottish National Gallery of Modern Art have given to highlight the richness and diversity of artistic practice in Scotland and from around the world.
+**NOW** is the sixth and final of a number of exhibitions at Scottish National Gallery of Modern Art to highlight the richness and diversity of artistic practice in Scotland and from around the world.
 
 The bulk of the exhibition space was for Katie Paterson and individual rooms for Darren Almond, Shona Macnaughton and Lucy Raven.
 
