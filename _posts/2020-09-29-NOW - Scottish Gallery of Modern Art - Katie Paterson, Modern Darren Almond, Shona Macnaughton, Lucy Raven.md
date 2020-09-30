@@ -1,9 +1,9 @@
 ---
 layout: post
-title: NOW | Katie Paterson,Darren Almond,Shona Macnaughton,Lucy Raven 
+title: Katie Paterson NOW Scottish National Gallery 
 author: jpds
 category: new
-tags: [review exhibition]
+tags: [exhibition review]
 typora-root-url: ../
 typora-copy-images-to: ../media/jpds
 ---
