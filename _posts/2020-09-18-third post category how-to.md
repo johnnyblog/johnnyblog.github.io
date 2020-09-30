@@ -2,8 +2,8 @@
 layout: post
 title: Starting a blog
 author: jpds
-category: how-to
-tags: [change log johnny]
+category: new
+tags: [review]
 typora-root-url: ../
 typora-copy-images-to: ../media/jpds
 ---
