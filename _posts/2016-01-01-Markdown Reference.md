@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Markdown Reference
-date: 2016-01-01
-category: basic
+date: 2020-09-30
+category: reference
 author: typora.io
 tags: [markdown, tutorial]
 typora-root-url: ../
