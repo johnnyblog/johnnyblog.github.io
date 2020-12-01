@@ -1,11 +1,14 @@
 ---
+title: Katie Paterson NOW Scottish National Gallery
+date: 2020-09-29 00:00:00 Z
+categories:
+- new
+tags:
+- exhibition review
 layout: post
-title: Katie Paterson NOW Scottish National Gallery 
 author: jpds
-category: new
-tags: [exhibition review]
-typora-root-url: ../
-typora-copy-images-to: ../media/jpds
+typora-root-url: "../"
+typora-copy-images-to: "../media/jpds"
 ---
 
 **NOW** is the sixth and final of a number of exhibitions at Scottish National Gallery of Modern Art to highlight the richness and diversity of artistic practice in Scotland and from around the world.

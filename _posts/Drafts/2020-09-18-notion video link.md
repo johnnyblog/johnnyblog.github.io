@@ -1,12 +1,14 @@
 ---
-
-layout: post
 title: Creative
+date: 2020-09-18 00:00:00 Z
+categories:
+- new
+tags:
+- change log johnny
+layout: post
 author: jpds
-category: new
-tags: [change log johnny]
-typora-root-url: ../
-typora-copy-images-to: ../media/jpds
+typora-root-url: "../"
+typora-copy-images-to: "../media/jpds"
 ---
 
 # Post category creative

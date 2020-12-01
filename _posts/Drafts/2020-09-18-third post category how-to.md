@@ -1,11 +1,14 @@
 ---
-layout: post
 title: Starting a blog
+date: 2020-09-18 00:00:00 Z
+categories:
+- new
+tags:
+- review
+layout: post
 author: jpds
-category: new
-tags: [review]
-typora-root-url: ../
-typora-copy-images-to: ../media/jpds
+typora-root-url: "../"
+typora-copy-images-to: "../media/jpds"
 ---
 
 # Post category creative

@@ -1,34 +1,35 @@
+---
+title: Johnnyblog.Github.Io
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 name: johnnyblog
 url: https://johnnyblog.github.io
 description: Notes,  How-Tos, and FAQs
-
-permalink: /:title/
-
-highlighter: null
-
+permalink: "/:title/"
+highlighter: 
 plugins:
-  - jekyll-redirect-from
+- jekyll-redirect-from
 whitelist:
-  - jekyll-redirect-from
+- jekyll-redirect-from
 jekyll-redirect-from: true
-
 markdown: kramdown
 kramdown:
   input: GFM
-  #
-  # https://github.com/jekyll/jekyll/pull/4090
-  # syntax_highlighter: rouge
-
-  # Rouge Highlighter in Kramdown › http://kramdown.gettalong.org/syntax_highlighter/rouge.html
-  # span, block element options fall back to global
   syntax_highlighter_opts:
-    # Rouge Options › https://github.com/jneen/rouge#full-options
-    #line_numbers: true # bad idea, spans don't need linenos and would inherit this option
     span:
       line_numbers: false
     block:
       line_numbers: false
       start_line: 1
-
-
-exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile', 'vendor']
+exclude:
+- README.md
+- Gemfile.lock
+- Gemfile
+- Rakefile
+- vendor

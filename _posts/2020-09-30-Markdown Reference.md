@@ -1,11 +1,14 @@
 ---
-layout: post
 title: Markdown Reference
-date: 2020-09-30
-category: reference
+date: 2020-09-30 00:00:00 Z
+categories:
+- reference
+tags:
+- markdown
+- tutorial
+layout: post
 author: typora.io
-tags: [markdown, tutorial]
-typora-root-url: ../
+typora-root-url: "../"
 ---
 
 ## Overview
