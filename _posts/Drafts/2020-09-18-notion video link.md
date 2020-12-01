@@ -5,10 +5,10 @@ categories:
 - new
 tags:
 - change log johnny
-layout: post
 author: jpds
 typora-root-url: "../"
 typora-copy-images-to: "../media/jpds"
+layout: post
 ---
 
 # Post category creative
@@ -24,7 +24,7 @@ I copied the Typora support blog.
 
 I set the YAML at the top of this markdown file to say where to put the image
 
-and to assign the category and tags
+and to assign the category and tags 
 
 ```rb
 ![]({movie.mp4})
