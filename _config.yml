@@ -2,6 +2,9 @@
 title: Johnnyblog.Github.Io
 timezone: UTC
 collections:
+  musicians:
+    title: Musicians
+    output: true
   posts:
     title: Posts
     output: true
