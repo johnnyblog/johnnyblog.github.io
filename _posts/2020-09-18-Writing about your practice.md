@@ -3,7 +3,7 @@ layout: post
 title: Writing about your Practice
 author: jpds
 category: new
-tags: [talks]
+tags: [talks shows]
 typora-root-url: ../
 typora-copy-images-to: ../media/newjpds
 ---
