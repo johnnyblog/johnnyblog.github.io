@@ -3,7 +3,7 @@ layout: post
 title: Writing about your Practice
 author: jpds
 category: new
-tags: [talks shows]
+tags: [talks]
 typora-root-url: ../
 typora-copy-images-to: ../media/newjpds
 ---
@@ -164,4 +164,4 @@ This is not to be anti art theory but the writing is about you !
 
 Lisa Le Feuvre Executive Director Smithsonian Institute previously Henry Moore Institute (i.e. at top of international art world) ..... "Reading a statement that actually reads like it was spoken is a joy"
 
-<img src="/media/newjpds/image-20210215123150020.png" alt="image-20210215123150020" style="zoom:100%;width=20" />
+
