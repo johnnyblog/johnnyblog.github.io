@@ -10,8 +10,6 @@ typora-copy-images-to: ../media/newjpds
 
 # Writing about your practice
 
-c drive
-
 This was run as a Q&A between Rhona Taylor SSA (Art UK Sculpture Project) and Moira Jeffrey (journalist)
 
 In the context of Covid / SSA and keeping contact:
