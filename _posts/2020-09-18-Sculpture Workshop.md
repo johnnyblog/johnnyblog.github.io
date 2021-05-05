@@ -2,7 +2,7 @@
 layout: post
 title: Sculpture Workshop
 author: jpds
-category: Events
+category: talks
 tags: [talks]
 typora-root-url: ../
 typora-copy-images-to: ../media/jpds
