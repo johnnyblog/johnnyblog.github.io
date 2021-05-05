@@ -23,7 +23,7 @@ They also run an art for health group, outreach, tuition and commissions.
 
 They have "maker members" who can sell and promote work and "community members" volunteers and participants.
 
-They also run local makers markets at Tyninhame Hall.
+They also run local makers markets at Tyninghame Hall.
 
 ![img](/media/jpds/thumb-img-9617-1024_orig.jpg)
 
