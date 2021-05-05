@@ -1,5 +1,5 @@
 ---
-title: Sue White Oaks
+title: Sue White Oaks at Dancing Light and Lost Wax Process Notes
 date: 2020-09-29 00:00:00 Z
 categories:
 - events
@@ -13,7 +13,7 @@ typora-copy-images-to: "../media/jpds"
 
 This was an exhibition of copper and some bronze replicas at Dancing Light Gallery Edinburgh.
 
-The artist Sue White Oakes was no longer working with her hands and the gallery had an exhibition of some of her 180 works over last 20 years.  The copper interested me and the way she joined pieces using such a hard material to represent the skeletons and outer surfaces of many different animals, feathers, scales and many types of skin. The copper is also coloured using different techniques.
+The artist Sue White Oakes is no longer able to work as before the gallery had an exhibition of works for sale from 180 works she made in the last 20 years.  The copper interested me and the way she joined pieces using such a hard material to represent the skeletons and outer surfaces of many different animals, feathers, scales and many types of skin. The copper is also coloured using different techniques.
 
 What was most interesting for me was the bronzing of some of the sculptures.
 
