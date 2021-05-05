@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Sculpture Workshop
+title: Live Event Pecha Kucha
 author: jpds
-category: project
-tags: [Pecha]
+categories:
+- events
+tags:
+- pecha
 typora-root-url: ../
 typora-copy-images-to: ../media/jpds
 ---
