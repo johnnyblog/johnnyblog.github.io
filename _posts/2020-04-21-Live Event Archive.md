@@ -2,9 +2,9 @@
 title: Live Project Event Pecha Kucha Archive
 date: 2020-09-29 00:00:00 Z
 categories:
-- events
+- Project
 tags:
-- review
+- pecha kucha
 layout: post
 author: jpds
 typora-root-url: "../"
