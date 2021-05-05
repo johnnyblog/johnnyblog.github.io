@@ -1,13 +1,14 @@
 ---
-layout: post
-title: Live Event Pecha Kucha
-author: jpds
+title: Live Project Event Pecha Kucha Archive
+date: 2020-09-29 00:00:00 Z
 categories:
 - events
 tags:
-- pecha
-typora-root-url: ../
-typora-copy-images-to: ../media/jpds
+- review
+layout: post
+author: jpds
+typora-root-url: "../"
+typora-copy-images-to: "../media/jpds"
 ---
 
 # Pecha Kucha Event Archive
