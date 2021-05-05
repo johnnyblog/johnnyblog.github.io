@@ -77,9 +77,9 @@ layout: home
 		{% endunless %}
 		{% endfor %}
 	</ul>
-	<h3>Shows</h3>
-	<ul class="category shows-posts">
-		{% for post in site.categories.shows reversed %}
+	<h3>Project</h3>
+	<ul class="category project-posts">
+		{% for post in site.categories.project reversed %}
 		{% unless post.draft %}
 		{% assign title = post.title %}
 		<li>

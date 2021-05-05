@@ -2,10 +2,9 @@
 title: Markdown Reference
 date: 2020-09-30 00:00:00 Z
 categories:
-- reference
+- notes
 tags:
 - markdown
-- tutorial
 layout: post
 author: typora.io
 typora-root-url: "../"
@@ -242,10 +241,10 @@ This is [an example](http://example.com/"Title") inline link. (`<p>This is <a hr
 
 To create an internal link that creates a 'bookmark' that allow you to jump to that section after clicking on it, use the name of the header element as the href. For example:
 
-Hold down Cmd (on Windows: Ctrl) and click on [this link](#block-elements) to jump to header `Block Elements`. 
+Hold down Cmd (on Windows: Ctrl) and click on [this link](#block-elements) to jump to header `Block Elements`.
 
 ``` markdown
-Hold down Cmd (on Windows: Ctrl) and click on [this link](#block-elements) to jump to header `Block Elements`. 
+Hold down Cmd (on Windows: Ctrl) and click on [this link](#block-elements) to jump to header `Block Elements`.
 ```
 
 #### Reference Links

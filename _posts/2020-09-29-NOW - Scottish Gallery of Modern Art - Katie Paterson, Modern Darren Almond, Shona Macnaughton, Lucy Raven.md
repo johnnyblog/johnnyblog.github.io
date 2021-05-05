@@ -2,10 +2,9 @@
 title: Katie Paterson NOW Scottish National Gallery
 date: 2020-09-29 00:00:00 Z
 categories:
-- new
-
+- events
 tags:
-- events review
+- review
 layout: post
 author: jpds
 typora-root-url: "../"

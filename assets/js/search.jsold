@@ -201,7 +201,7 @@ function bindSearchEvents(){
         if(searchTerm.length) {
           history.pushState({search: searchTerm}, searchTerm + " - search", "?search=" + encodeURIComponent(searchTerm));
         } else {
-          history.pushState({}, "Search Johnny", "/");
+          history.pushState({}, "Typora Support", "/");
         }
       }
       doSearch(searchTerm);
@@ -214,14 +214,14 @@ function bindSearchEvents(){
       if(searchTerm.length) {
         history.pushState({search: searchTerm}, searchTerm + " - search", "?search=" + encodeURIComponent(searchTerm));
       } else {
-        history.pushState({}, "Search Johnny", "/");
+        history.pushState({}, "Typora Support", "/");
       }
     }
     doSearch(searchTerm);
   });
   document.getElementById('clear-button').addEventListener("click", function(){
     if(history.pushState) {
-      history.pushState({}, "Search Johnny", "/");
+      history.pushState({}, "Typora Support", "/");
     }
     exitSearch();
   });
