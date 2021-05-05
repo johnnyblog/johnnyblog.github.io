@@ -2,7 +2,7 @@
 title: Live Project Event Pecha Kucha Archive
 date: 2020-09-29 00:00:00 Z
 categories:
-- Project
+- project
 tags:
 - pecha kucha
 layout: post
