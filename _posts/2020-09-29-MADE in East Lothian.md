@@ -19,6 +19,8 @@ They run many workshops and classes in printing, lithography, drypoint, and prin
 
 They have a small print area with a press that has been converted from a mangle that I was going to be using if they had not closed down due to second lockdown.
 
+![image-20210505171819393](/media/jpds/image-20210505171819393.png)
+
 They also run an art for health group, outreach, tuition and commissions.
 
 They have "maker members" who can sell and promote work and "community members" volunteers and participants.
