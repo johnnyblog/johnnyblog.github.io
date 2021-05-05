@@ -28,9 +28,11 @@ using markdown syntax
 ![Eventbrite Event](https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiIxMTM2NjQ3OS9vcmlnaW5hbF84ODAzMzExYThiZjQwMjkzYjIyYTUzMzY4ZGI2MzIxZi5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjE4MDAsImhlaWdodCI6MTgwMCwiZml0IjoiaW5zaWRlIiwid2l0aG91dEVubGFyZ2VtZW50Ijp0cnVlfSwid2VicCI6eyJxdWFsaXR5Ijo5MH0sInJvdGF0ZSI6bnVsbCwianBlZyI6eyJxdWFsaXR5Ijo5MH19fQ==?bc=0)
 ```
 
-The body of the posts are written in Markdown see separate post on Markdown syntax.
+The body of the posts are written in [Markdown](https://johnnyblog.github.io/Markdown-Reference/)
 
-A table of contents can be generated from markdown at this site https://ecotrust-canada.github.io/markdown-toc/ as the TOC tag does not work in github flavoured markdown
+
+
+A table of contents can be generated from markdown at this site https://ecotrust-canada.github.io/markdown-toc/ as the TOC tag does not work in github flavoured markdown 
 
 ```title: How to Notes
 title: How to Notes
