@@ -25,7 +25,7 @@ They have "maker members" who can sell and promote work and "community members" 
 
 They also run local makers markets at Tyninhame Hall.
 
-![img](http://www.theprintstigator.co.uk/uploads/1/1/8/8/118862644/thumb-img-9617-1024_orig.jpg)
+![img](/media/jpds/thumb-img-9617-1024_orig.jpg)
 
 
 
