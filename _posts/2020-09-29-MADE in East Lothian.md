@@ -1,35 +1,41 @@
 ---
-title: MADE in East Lothian
+title: Making Contacts
 date: 2020-09-29 00:00:00 Z
 categories:
-- events
+- talks
 tags:
-- review
+- talks
 layout: post
 author: jpds
 typora-root-url: "../"
 typora-copy-images-to: "../media/jpds"
 ---
 
-[MADE in East Lothian](https://www.madeineastlothian.org) is an Community Arts Hub that rents a building in Haddington.
-
-It is run by Fiona Maher, printer, artist, sculptor jewellery maker and Fiona Lambert upcycler.
-
-They run many workshops and classes in printing, lithography, drypoint, and printing from street furniture.  
-
-They have a small print area with a press that has been converted from a mangle that I was going to be using if they had not closed down due to second lockdown.
-
-![image-20210505171819393](/media/jpds/image-20210505171819393.png)
-
-They also run an art for health group, outreach, tuition and commissions.
-
-They have "maker members" who can sell and promote work and "community members" volunteers and participants.
-
-They also run local makers markets at Tyninghame Hall.
-
-![img](/media/jpds/thumb-img-9617-1024_orig.jpg)
 
 
+The artists taking part in the Live Project Pecha Kucha event plus
 
-![image-20210505165810198](/media/jpds/image-20210505165810198.png)
+Fiona Hutchison about sketchbook and studio practice 
+
+Jill Martin Boualaxai about work in lockdown  
+
+Fiona Maher at Made in East Lothian and met again at Edinburgh Sculpture Studio where we chatted about etching and her commission and using latex and jesmonite.
+
+Andrew Crummy about drawing practice and the "tapestries"
+
+Simon Burns-Cox at his studio in Edinburgh Sculpture Workshop for a stone carving workshop 
+
+Jenny Smith about setting up the Mission hall studio and her laser engraving.
+
+![image-20210507142540263](/media/jpds/image-20210507142540263.png)
+
+
+
+**Email exchanges** 
+
+Martin Rowson - about drawing and masking https://www.youtube.com/watch?v=ayp8DiBWkH8
+
+Jodi le Bigre - about getting started with  etching and materials during lockdown
+
+"Barb" youtuber and maker about concrete mixes
 
